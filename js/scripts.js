@@ -4,7 +4,7 @@ function drawTree(height) {
 		for (var j = 1; j <= i; j++) { 
 			star += '*';
 		};
-	console.log(star);
+		console.log(star);
 	};
 };
 drawTree(5);
